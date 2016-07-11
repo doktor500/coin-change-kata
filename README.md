@@ -10,7 +10,7 @@ The coin change kata exercise should produce the minimal amount of change for a 
 
 For instance, If the input is: $0.99, the output should be: 3 quarters, 2 dimes, and 4 pennies
 
-### 3 Rules of TDD to have in mind for solving the exercise
+### 3 Rules of TDD to have in mind for solving the kata
 
 1. You are not allowed to write any production code unless it is to make a failing unit test pass
 2. You are not allowed to write any more of a unit test than is sufficient to fail
