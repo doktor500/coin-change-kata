@@ -7,10 +7,12 @@ repositories {
 }
 
 dependencies {
-    compile 'com.google.guava:guava:19.0'
+    compile 'org.codehaus.groovy:groovy-all:2.4.7'
+    compile 'com.google.guava:guava:20.0'
     compile 'commons-collections:commons-collections:3.2.2'
-    compile 'org.codehaus.groovy:groovy-all:2.4.4'
 
-    testCompile 'org.spockframework:spock-core:1.0-groovy-2.4'
     testCompile 'junit:junit:4.12'
+    testCompile 'org.spockframework:spock-core:1.0-groovy-2.4'
+    testCompile 'cglib:cglib-nodep:3.2.4'
+    testCompile 'org.objenesis:objenesis:2.4'
 }
