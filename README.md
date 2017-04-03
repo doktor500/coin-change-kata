@@ -8,7 +8,8 @@ We are going to solve the **Coin change kata**
 
 The coin change kata exercise should produce the minimal amount of change for a given amount
 
-For instance, If the input is: $0.99, the output should be: 3 quarters, 2 dimes, and 4 pennies
+For instance, If the input is: 99 cents of a dollar, the output should be: 3 quarters, 2 dimes, and 4 pennies
+The output can be something as simple as `25, 25, 25, 10, 10, 1, 1, 1, 1` which is the same as 99 cents
 
 The currency unit that we will use, will be 1 cent, instead of 1 dollar
 
@@ -20,8 +21,6 @@ The currency unit that we will use, will be 1 cent, instead of 1 dollar
 
 ### Setup the project in eclipse with gradle
 
-Import the project as a Gradle project in eclipse
-
-Set as gradle user home directory the directory in where the project has been cloned
+Import the project as a Gradle or Maven project on IntelliJ/Eclipse
 
 ![Configuration](https://github.com/doktor500/coin-change-kata/blob/master/config.png)
