@@ -23,6 +23,8 @@ The currency unit that we will use, will be 1 cent, instead of 1 dollar
 
 Import the project as a Gradle or Maven project on IntelliJ/Eclipse
 
+### Gradle + Eclipse setup
+
 If you are using Gradle and Eclipse, set the Gradle user home directory the directory to the path in where the project has been cloned
 
 
