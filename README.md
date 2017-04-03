@@ -19,7 +19,7 @@ The currency unit that we will use, will be 1 cent, instead of 1 dollar
 2. You are not allowed to write any more of a unit test than is sufficient to fail
 3. You are not allowed to write any more production code than is sufficient to pass the one failing unit test
 
-### Setup the project in eclipse with gradle
+### Setup the project
 
 Import the project as a Gradle or Maven project on IntelliJ/Eclipse
 
