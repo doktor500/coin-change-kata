@@ -21,11 +21,10 @@ The currency unit that we will use, will be 1 cent, instead of 1 dollar
 
 ### Setup the project
 
-Import the project as a Gradle or Maven project on IntelliJ/Eclipse
+- Import the project as a Gradle or Maven project on IntelliJ/Eclipse
 
 ### Gradle + Eclipse setup
 
-If you are using Gradle and Eclipse, set the Gradle user home directory the directory to the path in where the project has been cloned
-
+- If you are using Gradle and Eclipse, set the Gradle user home directory the directory to the path in where the project has been cloned
 
 ![Configuration](https://github.com/doktor500/coin-change-kata/blob/master/config.png)
